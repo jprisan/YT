@@ -1,0 +1,12 @@
+.parallax-container {
+  position: relative;
+  overflow: hidden;
+  height: 800px;
+}
+
+.header-stile {
+  text-decoration: underline;
+}
+ .size {
+   width: 650px;
+ }
