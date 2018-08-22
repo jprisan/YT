@@ -7,6 +7,12 @@
 .header-stile {
   text-decoration: underline;
 }
- .size {
-   width: 650px;
- }
+
+.size {
+  width: 650px;
+}
+
+.stroke {
+  -webkit-text-fill-color: white;
+  -webkit-text-stroke: 0.1px black;
+}
